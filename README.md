@@ -1,8 +1,8 @@
-https://www.howtographql.com/graphql-go/5-create-and-retrieve-links/
+[Tutorial](https://www.howtographql.com/graphql-go/5-create-and-retrieve-links/)
 
-https://medium.com/@wahyubagus1910/implementation-graphql-server-with-golang-fb8f8303b4bc
+[Tutorial](https://medium.com/@wahyubagus1910/implementation-graphql-server-with-golang-fb8f8303b4bc)
 
-https://gqlgen.com/config/
+[gqlgn](https://gqlgen.com/config/)
 
 ```sh
 go get github.com/99designs/gqlgen
